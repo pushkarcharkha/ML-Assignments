@@ -7,8 +7,12 @@ asa mall owner you need to find the group of people who are the profitable custo
 mallowner. Apply at least two clustering algorithms (based on Spending Score) to find the 
 group ofcustomers.
 
-  a) Apply Data pre-processing  
-  b) Perform data-preparation (Train-Test Split) 
-  c) Apply Machine Learning Algorithm
-  d) Evaluate Model. 
-  e) Apply Cross-Validation and Evaluate Mode
+    a) Apply Data pre-processing
+   
+    b) Perform data-preparation (Train-Test Split)
+   
+    c) Apply Machine Learning Algorithm
+   
+    d) Evaluate Model.
+   
+    e) Apply Cross-Validation and Evaluate Mode
