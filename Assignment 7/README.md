@@ -8,9 +8,13 @@ Data Set: https://www.kaggle.com/mohansacharya/graduate-admissions
 The counselor of the firm is supposed check whether the student will get an admission or not 
 based on his/her GRE score and Academic Score. So to help the counselor to take appropriate 
 decisions build a machine learning model classifier using Decision tree to predict whether a 
-student will get admission or not. 
+student will get admission or not.
+
 a) Apply Data pre-processing (Label Encoding, Data Transformation….) techniques if 
-necessary.  
+necessary.
+
 b) Perform data-preparation (Train-Test Split) 
+
 c) Apply Machine Learning Algorithm 
+
 d) Evaluate Model. 
